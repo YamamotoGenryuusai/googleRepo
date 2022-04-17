@@ -1,0 +1,54 @@
+.centerpic {
+text-align: center;
+}
+.center {
+ 
+        width: 90%;
+        height: 100px;
+        background-color : #ccd5d9;
+        margin: 5px auto;
+        text-align: center;
+        
+}
+
+.centerleft {
+        width: 435px;
+        height: 150px;
+        background-color: #acdce3;
+        text-align: center;
+        float:left;
+            }
+
+.centermid {
+           width: 490px;
+           height: 150px;
+           background-color: #acdce3;
+           margin-left:5px;
+           margin-right:5px;
+           text-align: center;
+           float: left;
+           
+           }
+
+.centerright {
+              width: 432px;
+              height: 150px;
+              background-color: #79cad6;
+              text-align: center;
+              float:left        ;
+             }
+.centerbottom {
+               width: 90% ;
+               margin: 0 auto;
+               }
+.lastparagraph { 
+                 
+                 text-align:center;
+                 float:middle;
+        
+            
+               }
+   /* 
+
+       
+
